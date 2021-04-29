@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/column-major.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/fibiterative.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/fibrecursive.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/row-major.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +84,7 @@
       <workItem from="1619597178075" duration="1165000" />
       <workItem from="1619607154614" duration="4771000" />
       <workItem from="1619642951295" duration="13357000" />
-      <workItem from="1619680285180" duration="2124000" />
+      <workItem from="1619680285180" duration="3016000" />
     </task>
     <servers />
   </component>
