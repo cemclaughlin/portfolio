@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/main.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1n5jh8U87AD668s0w2AQkzaVS6i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/portfolio/PIEO Presentation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\PIEO Presentation" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Ambient Edge Kinect Service" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Don't Sweat It" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Don't Sweat It" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="" />
+      <created>1610686965910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610686965910</updated>
+      <workItem from="1610686969458" duration="272000" />
+      <workItem from="1610687319632" duration="22000" />
+      <workItem from="1610687403168" duration="6501000" />
+      <workItem from="1611264249007" duration="17218000" />
+      <workItem from="1611365319148" duration="1090000" />
+      <workItem from="1611524697221" duration="6845000" />
+      <workItem from="1611547468164" duration="5049000" />
+      <workItem from="1611552636474" duration="11472000" />
+      <workItem from="1611608365393" duration="22300000" />
+      <workItem from="1612340496909" duration="606000" />
+      <workItem from="1619595814120" duration="683000" />
+      <workItem from="1619597178075" duration="1165000" />
+      <workItem from="1619607154614" duration="4771000" />
+      <workItem from="1619642951295" duration="12237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
