@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="" />
+    <list default="true" id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/column-major.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/fibiterative.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/fibrecursive.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/MARS/row-major.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-6.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,15 +40,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/portfolio/MARS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\newportfolio\img\portfolio\MARS" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\PIEO Presentation" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Ambient Edge Kinect Service" />
-      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
@@ -47,15 +56,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,6 +90,7 @@
       <workItem from="1619597178075" duration="1165000" />
       <workItem from="1619607154614" duration="4771000" />
       <workItem from="1619642951295" duration="13357000" />
+      <workItem from="1619680285180" duration="2124000" />
     </task>
     <servers />
   </component>
@@ -90,6 +98,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
