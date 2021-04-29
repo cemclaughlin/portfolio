@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b24e88-3be7-4a39-beb2-173e6c4f379c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/portfolio/UROP/mclaughlin.cristina.COMP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/blocks.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/sphere.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/welcome.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +45,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/portfolio/MARS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/portfolio" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\newportfolio\img\portfolio" />
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\newportfolio" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\newportfolio\img\portfolio\MARS" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\PIEO Presentation" />
-      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio" />
-      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Ambient Edge Kinect Service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\newportfolio\img\portfolio\UROP" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Don't Sweat It" />
     </key>
@@ -84,7 +96,7 @@
       <workItem from="1619597178075" duration="1165000" />
       <workItem from="1619607154614" duration="4771000" />
       <workItem from="1619642951295" duration="13357000" />
-      <workItem from="1619680285180" duration="3016000" />
+      <workItem from="1619680285180" duration="9061000" />
     </task>
     <servers />
   </component>
