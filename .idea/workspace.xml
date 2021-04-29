@@ -31,15 +31,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/portfolio/PIEO Presentation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\PIEO Presentation" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Ambient Edge Kinect Service" />
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
-      <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio\Don't Sweat It" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Noah's Bae\Documents\GitHub\portfolio\img\portfolio" />
@@ -82,7 +82,7 @@
       <workItem from="1619595814120" duration="683000" />
       <workItem from="1619597178075" duration="1165000" />
       <workItem from="1619607154614" duration="4771000" />
-      <workItem from="1619642951295" duration="12237000" />
+      <workItem from="1619642951295" duration="13357000" />
     </task>
     <servers />
   </component>
